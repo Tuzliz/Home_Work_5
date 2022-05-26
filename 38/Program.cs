@@ -36,7 +36,7 @@ Console.Write($"{item} ");
 
 double [] arr = ArrayCreation(10);
 
-double min =0;
+double min = 0;
 double  max = 0;
 (min,max) = minAndMaxOfArray(arr);
 
